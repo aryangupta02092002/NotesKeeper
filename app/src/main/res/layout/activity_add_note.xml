@@ -64,7 +64,7 @@
         android:hint="Start Typing"
         android:background="@null"
         android:gravity="top"
-        android:inputType="textPersonName"
+        android:inputType="textMultiLine"
         android:lineSpacingMultiplier="1.8"
         android:ems="10"
         app:layout_constraintBottom_toBottomOf="parent"
